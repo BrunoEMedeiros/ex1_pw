@@ -1,0 +1,14 @@
+.cssContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    padding: 10px;
+    border-radius: 10%;
+    border: 5px solid black;
+    width: 400px;
+    height: 600px;
+}
+
+.img1{
+    border-radius: 10%;
+}
